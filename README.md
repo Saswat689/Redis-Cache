@@ -1,4 +1,4 @@
- # Caching in Node.js
+ # Caching in Node.js :rocket:
 
  Caching is a powerful technique that makes web servers serve content faster about 10 to 20 times on GET endpoints.This code is just an implementation of caching using Redis in Node.
 
@@ -6,20 +6,20 @@
 
 If you want this as a template:
 
-Clone the repo:
+- **Clone the repo:**
 
 ```
-git clone url .
+git clone https://github.com/Saswat689/Redis-Cache.git .
 ```
 
-Run the server:
+- **Run the server:**
 
 ```
 npm start	
 ```
 
 - Redis must be installed on your system.
-- Note that a type:module is specified in the package.json because we are using node-fetch as a module.
+- **Note** that a type:module is specified in the package.json because we are using node-fetch as a module.
 
 ## Endpoints
 
